@@ -32,3 +32,11 @@ table
     width: 200px;
 }
 
+footer
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding: 0 0 10px 0;
+}

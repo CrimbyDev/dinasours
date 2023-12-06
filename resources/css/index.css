@@ -1,16 +1,25 @@
-#nav
-{
-    display: inline;
-}
-
 body
 {
-    margin: 0;
+    text-align: center;
 }
 
 #banner
 {
+    top: 0;
     width: 100%;
-    margin: 0px auto;
 }
 
+nav li
+{
+    display: inline-block;
+    margin: auto;
+    padding: 10px 20px;
+    width: auto;
+}
+
+footer
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
